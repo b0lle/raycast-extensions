@@ -1,4 +1,6 @@
 # Amazon AWS Changelog
+## Fix AWS SSO Authentication - {PR_MERGE_DATE}
+- update aws-sdk
 
 ## [Bug fix for Amplify] - 2025-09-30
 
